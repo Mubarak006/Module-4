@@ -45,7 +45,8 @@ for i in l:
 
 
 ## Sample Output
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/6b9741e5-e286-443a-a6f6-5a5839be6c7e)
+
 
 
 ## Result
